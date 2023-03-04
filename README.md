@@ -23,7 +23,7 @@ This is a Solidity smart contract called "FundMe" that allows people to fund a p
 
 ```
 git clone https://github.com/Ab-verse/html-fund-me.git
-cd html-fund-me-fcc
+cd html-fund-me
 ```
 
 2. Run the file.
@@ -55,7 +55,7 @@ Make sure you have the following installed:
 
 ```
 git clone https://github.com/Ab-verse/hardhat-fund-me.git
-cd hardhat-fund-me-fcc
+cd hardhat-fund-me
 yarn
 yarn hardhat node
 ```
